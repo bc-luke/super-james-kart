@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame", "KartGame.csproj", "{336ABC56-4728-8C17-B2C6-2E195C9D6952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI", "KartGame.AI.csproj", "{9BD3A885-CAC1-9892-D4BC-EEEB87743912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{312560FA-FE86-BB18-3675-9E6093C3034B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Microgame.Tutorials", "Unity.Microgame.Tutorials.csproj", "{E8E3589F-45DD-8569-59D3-96BE05483E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI.Editor", "KartGame.AI.Editor.csproj", "{1FD4A097-0B0C-655F-0F17-5C6A2BCD2989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.Editor", "KartGame.Editor.csproj", "{210EA6B3-719A-76EF-1762-79F9AB59D346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Karting.Tutorials", "Unity.Karting.Tutorials.csproj", "{46E5D12B-74D3-17F7-C0E4-A56A31C67590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336ABC56-4728-8C17-B2C6-2E195C9D6952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336ABC56-4728-8C17-B2C6-2E195C9D6952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336ABC56-4728-8C17-B2C6-2E195C9D6952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336ABC56-4728-8C17-B2C6-2E195C9D6952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD3A885-CAC1-9892-D4BC-EEEB87743912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD3A885-CAC1-9892-D4BC-EEEB87743912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD3A885-CAC1-9892-D4BC-EEEB87743912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD3A885-CAC1-9892-D4BC-EEEB87743912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312560FA-FE86-BB18-3675-9E6093C3034B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312560FA-FE86-BB18-3675-9E6093C3034B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312560FA-FE86-BB18-3675-9E6093C3034B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312560FA-FE86-BB18-3675-9E6093C3034B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E3589F-45DD-8569-59D3-96BE05483E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E3589F-45DD-8569-59D3-96BE05483E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E3589F-45DD-8569-59D3-96BE05483E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E3589F-45DD-8569-59D3-96BE05483E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD4A097-0B0C-655F-0F17-5C6A2BCD2989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD4A097-0B0C-655F-0F17-5C6A2BCD2989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD4A097-0B0C-655F-0F17-5C6A2BCD2989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD4A097-0B0C-655F-0F17-5C6A2BCD2989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210EA6B3-719A-76EF-1762-79F9AB59D346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210EA6B3-719A-76EF-1762-79F9AB59D346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210EA6B3-719A-76EF-1762-79F9AB59D346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210EA6B3-719A-76EF-1762-79F9AB59D346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E5D12B-74D3-17F7-C0E4-A56A31C67590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E5D12B-74D3-17F7-C0E4-A56A31C67590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E5D12B-74D3-17F7-C0E4-A56A31C67590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E5D12B-74D3-17F7-C0E4-A56A31C67590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
